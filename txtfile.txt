@@ -1,1 +1,2 @@
+Add new row
 New text for this file
